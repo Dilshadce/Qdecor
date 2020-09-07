@@ -43,12 +43,12 @@ a:focus {
 	text-decoration: none !important; 
 }
 a:focus, a:hover { 
-	color: #FF981A; 
+	color: #802088; 
 	text-decoration: none !important; 
 }
 a, button, input { 
 	outline: medium none !important; 
-	color: #FF981A; 
+	color: #802088; 
 }
 .uppercase { 
 	text-transform: uppercase; 
@@ -89,17 +89,17 @@ hr.light {
 	border-top: 0px; 
 } 
 *::-moz-selection { 
-	background: #FF981A; 
+	background: #802088; 
 	color: #fff; 
 	text-shadow: none; 
 }
 ::-moz-selection { 
-	background: #FF981A; 
+	background: #802088; 
 	color: #fff; 
 	text-shadow: none; 
 }
 ::selection { 
-	background: #FF981A; 
+	background: #802088; 
 	color: #fff; 
 	text-shadow: none; 
 }
@@ -174,7 +174,7 @@ img.bottom-img {
 /*----Page section padding End---*/
 
 /*----Text color Start----*/
-.theme-color { color: #FF981A; }
+.theme-color { color: #802088; }
 .txt-white { color: #fff; }
 .txt-black { color: #363636; }
 .txt-gray { color: #999999; }
